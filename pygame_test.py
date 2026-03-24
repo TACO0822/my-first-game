@@ -20,7 +20,7 @@ while running:
     screen.fill(WHITE)
     pygame.draw.circle(screen, BLUE, (400, 300), 50)
     pygame.display.flip()
-    
+
     clock.tick(60)
 
 pygame.quit()
